@@ -1,0 +1,17 @@
+body{
+    background-image:url("bgimg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#butterfly{
+    width: 100px;
+    height: 80px;
+}
+#logout{
+    float: right;
+}
+.input_div_message_page{
+    position : fixed;
+    bottom:0px;
+     width: 100%; 
+}
