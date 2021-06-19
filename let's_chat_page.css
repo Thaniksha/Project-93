@@ -13,5 +13,10 @@ body{
 .input_div_message_page{
     position : fixed;
     bottom:0px;
-     width: 100%; 
+     width: 100%;
+     height: 100px;
+}
+.user_tick
+{
+	width:20px;
 }
